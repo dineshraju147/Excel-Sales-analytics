@@ -3,9 +3,9 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+    **1.** Create a _[customer performance report](https://github.com/dineshraju147/Excel-Sales-analytics/blob/f6ae4fb1bb0bfd5755217ce6a80ece3dd6520d7e/Customer%20Performance%20Report.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/dineshraju147/Excel-Sales-analytics/blob/f6ae4fb1bb0bfd5755217ce6a80ece3dd6520d7e/Market%20Performance%20vs%20Target%20Report.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -18,7 +18,7 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/dineshraju147/Excel-Sales-analytics/blob/f6ae4fb1bb0bfd5755217ce6a80ece3dd6520d7e/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/dineshraju147/Excel-Sales-analytics/blob/f6ae4fb1bb0bfd5755217ce6a80ece3dd6520d7e/P%26L%20Statement%20by%20Months.pdf)_ 
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 
